@@ -1,7 +1,19 @@
 # README
+
+# ABOUT THE PROJECT
+
+This is the very first project you will build with Ruby on Rails. The main goal here is to make i up and running - do not worry if you do not understand everything. We will go deeper with the following lessons.
+
 **To get your own copy of our project clone the repository to your local machine.**
 
 [repository](https://github.com/TSHEPO-CLOUD/blog_app/tree/feature_branch)
+
+# Run bundle install
+
+# Run rails s
+
+# and open your browser and enter www.localhost:3000
+
 ## Authors
 
 👤 **Tshepo Molefe**
@@ -11,6 +23,7 @@
 - Linkedin: [TSHEPO MOLEFE](https://linkedin.com/tshepo-molefe)
 
 👤 **Uchenna Anya**
+
     Github: [@uchennaanya](https://github.com/uchennaanya)
     Twitter:[@matinsanya19](https://twitter.com/matinsanya19)
     Linkedin: [Uchenna Martin Anya](https://linkedin.com/Uchenna-Anya)
