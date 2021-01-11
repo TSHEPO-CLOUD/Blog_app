@@ -24,9 +24,9 @@ This is the very first project you will build with Ruby on Rails. The main goal 
 
 👤 **Uchenna Anya**
 
-    Github: [@uchennaanya](https://github.com/uchennaanya)
-    Twitter:[@matinsanya19](https://twitter.com/matinsanya19)
-    Linkedin: [Uchenna Martin Anya](https://linkedin.com/Uchenna-Anya)
+- Github: [@uchennaanya](https://github.com/uchennaanya)
+- Twitter:[@matinsanya19](https://twitter.com/matinsanya19)
+- Linkedin: [Uchenna Martin Anya](https://linkedin.com/Uchenna-Anya)
 
 
 ## 🤝 Contributing
