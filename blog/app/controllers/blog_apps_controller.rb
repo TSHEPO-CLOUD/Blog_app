@@ -7,18 +7,10 @@ class BlogAppsController < ApplicationController
     @blog_apps = BlogApp.all
   end
 
-  # GET /blog_apps/1
-  # GET /blog_apps/1.json
-  def show
-  end
 
   # GET /blog_apps/new
   def new
     @blog_app = BlogApp.new
-  end
-
-  # GET /blog_apps/1/edit
-  def edit
   end
 
   # POST /blog_apps
